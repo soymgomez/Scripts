@@ -88,6 +88,8 @@ chmod 600 $CONFIG
 
 ln -s $CONFIG $NGINX_SITES_ENABLED/$DOMAIN.conf
 
+cp $CURRENT_DIR/index.html.template /home/$HOME_DIR$PUBLIC_HTML_DIR/index.php
+
 # set file perms and create required dirs!
 mkdir -p /home/$HOME_DIR$PUBLIC_HTML_DIR
 mkdir /home/$HOME_DIR/_logs

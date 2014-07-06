@@ -2,7 +2,7 @@
 
 #
 # Install
-# wget -q https://raw.githubusercontent.com/stokes84/Teamspeak-Installer/master/install.sh && bash install.sh && rm -f install.sh
+# wget -q https://raw.githubusercontent.com/MartinRaiola/Scripts/master/Instalador-Teamspeak3/install.sh && bash install.sh && rm -f install.sh
 #
 # Usage
 # service teamspeak start

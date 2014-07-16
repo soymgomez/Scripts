@@ -9,7 +9,7 @@
 $email="correo@dominio.es"
 
 #Direcotrio VestaCP
-$VESTA="/usr/local/vesta/"
+$VESTA="/usr/local/vesta"
 
 ##################################
 ############ NO TOCAR ############
